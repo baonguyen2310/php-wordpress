@@ -1,0 +1,16 @@
+/*
+ * |—:[Đoạn này sẽ chứa các đoạn giới thiệu và thông tin về theme, như tên theme (Theme Name), tên tác giả (Theme Author), địa chỉ của tác giả (Author URI),…]:—|
+
+
+ * Theme Name: My Theme
+ * Description: Đây là một theme đơn giản để thực hành Lập trình theme WordPress
+ * Theme URI: 
+ * Version: 1.0
+ * Theme Author: baonguyen
+ * Author URI: 
+ * Tags: starter theme, framework theme, two-columns, customize
+ * Textdomain: 
+ */
+body {
+    background-color: salmon;
+}
